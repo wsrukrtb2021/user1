@@ -1,0 +1,8 @@
+C:\Users\1\source\repos\ConsoleApp1\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\ConsoleApp1\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.AssemblyInfo.cs
+C:\Users\1\source\repos\ConsoleApp1\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ConsoleApp1\WSUniversalLib\bin\Debug\netcoreapp3.1\WSUniversalLib.deps.json
+C:\Users\1\source\repos\ConsoleApp1\WSUniversalLib\bin\Debug\netcoreapp3.1\WSUniversalLib.dll
+C:\Users\1\source\repos\ConsoleApp1\WSUniversalLib\bin\Debug\netcoreapp3.1\WSUniversalLib.pdb
+C:\Users\1\source\repos\ConsoleApp1\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.dll
+C:\Users\1\source\repos\ConsoleApp1\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.pdb
